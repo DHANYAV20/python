@@ -1,0 +1,12 @@
+python notes
+
+data types
+type(8)
+type(True)
+type('hello')
+type(-88)
+type([8,3,4,2])
+type((3,5,4))
+type({5,3,2})
+
+Loops
